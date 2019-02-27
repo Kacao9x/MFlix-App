@@ -1,0 +1,6 @@
+Collecting prompt-toolkit
+  Downloading https://files.pythonhosted.org/packages/f7/a7/9b1dd14ef45345f186ef69d175bdd2491c40ab1dfa4b2b3e4352df719ed7/prompt_toolkit-2.0.9-py3-none-any.whl (337kB)
+Requirement already satisfied: wcwidth in /home/kacao/anaconda3/lib/python3.7/site-packages (from prompt-toolkit) (0.1.7)
+Requirement already satisfied: six>=1.9.0 in /home/kacao/anaconda3/lib/python3.7/site-packages (from prompt-toolkit) (1.12.0)
+Installing collected packages: prompt-toolkit
+Successfully installed prompt-toolkit-2.0.9

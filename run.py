@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from mflix.factory import create_app
 
 import os
